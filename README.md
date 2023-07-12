@@ -1,16 +1,14 @@
-### Hi there 👋
+### Oĺá 👋
+Graduando em Ciência da Computação pela **Universidade Federal do Oeste do Pará**
 
-<!--
-**yureduarte-20/yureduarte-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades
+- Typescript
+- Javascript
+- NodeJS
+- Loopback4
+- React
+<div align="center">
+  <a href="https://github.com/yureduarte-20">
+  <img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=yureduarte-20&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img width="40.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yureduarte-20&layout=compact&langs_count=7&theme=cobalt">
+</div>
