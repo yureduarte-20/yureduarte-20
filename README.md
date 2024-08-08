@@ -1,5 +1,6 @@
 ### Oĺá 👋
-Graduando em Ciência da Computação pela **Universidade Federal do Oeste do Pará**
+Graduado em Ciência da Computação pela **Universidade Federal do Oeste do Pará**
+Atualmente trabalhando como desenvolvedor backend na Prefeitura Municipal de Santarém
 
 ### Linguagens
 - Javascript/Typescript
